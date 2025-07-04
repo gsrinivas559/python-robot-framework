@@ -1,0 +1,18 @@
+==============================================================================
+Tests                                                                         
+==============================================================================
+Tests.TestDemo2 :: To validate the login form using common resource file      
+==============================================================================
+Validate UnSuccessful login                                           | PASS |
+------------------------------------------------------------------------------
+Validate mobile cards displayed in the shopping page                  | PASS |
+------------------------------------------------------------------------------
+Validate the login functionality                                      | PASS |
+------------------------------------------------------------------------------
+Tests.TestDemo2 :: To validate the login form using common resourc... | PASS |
+3 tests, 3 passed, 0 failed
+==============================================================================
+Tests                                                                 | PASS |
+3 tests, 3 passed, 0 failed
+==============================================================================
+Output:  C:\Users\916824\PycharmProjects\python-robot-framework\tests\pabot_results\2\output.xml

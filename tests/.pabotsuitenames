@@ -1,0 +1,10 @@
+datasources:fff8138b47bb16365d6463e318f5f13f389609ab
+commandlineoptions:c6b20b27d0ed1faf99236e9940819274c43b3de8
+suitesfrom:no-suites-from-option
+file:11f4af66892f31fb6124d1dd4397bad285674cc7
+--suite Tests.AutomationEndToEndTest
+--suite Tests.TestDemo1
+--suite Tests.TestDemo2
+--suite Tests.TestDemo3
+--suite Tests.TestDemo4
+--suite Tests.TestDemo5

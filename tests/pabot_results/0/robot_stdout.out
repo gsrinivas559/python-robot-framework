@@ -1,0 +1,18 @@
+==============================================================================
+Tests                                                                         
+==============================================================================
+Tests.AutomationEndToEndTest :: To validate the login form using common res...
+==============================================================================
+Validate UnSuccessful login                                           | PASS |
+------------------------------------------------------------------------------
+End to end ecommerce product validation                               | PASS |
+------------------------------------------------------------------------------
+Validate the login functionality                                      | PASS |
+------------------------------------------------------------------------------
+Tests.AutomationEndToEndTest :: To validate the login form using c... | PASS |
+3 tests, 3 passed, 0 failed
+==============================================================================
+Tests                                                                 | PASS |
+3 tests, 3 passed, 0 failed
+==============================================================================
+Output:  C:\Users\916824\PycharmProjects\python-robot-framework\tests\pabot_results\0\output.xml

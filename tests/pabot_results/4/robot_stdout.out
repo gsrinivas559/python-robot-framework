@@ -1,0 +1,37 @@
+==============================================================================
+Tests                                                                         
+==============================================================================
+Tests.TestDemo4 :: To validate the login form                                 
+==============================================================================
+Invalid username                                                        
+  Traceback (most recent call last):
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    File  C:\Users\916824\PycharmProjects\python-robot-framework\tests\TestDemo4.robot:11
+    T:  Invalid username    
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    File  C:\Users\916824\PycharmProjects\python-robot-framework\tests\TestDemo4.robot:11
+      Validate UnSuccessful login    autouser    learning
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    File  C:\Users\916824\PycharmProjects\python-robot-framework\tests\TestDemo4.robot:20
+      fill the login form    ${username}    ${password}
+      |  ${username} = autouser (str)
+      |  ${password} = learning (str)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    File  C:\Users\916824\PycharmProjects\python-robot-framework\tests\TestDemo4.robot:30
+      Input Text    id:username    ${userName}
+      |  ${userName} = autouser (str)
+______________________________________________________________________________
+| FAIL |
+Element with locator 'id:username' not found.
+------------------------------------------------------------------------------
+Invalid password                                                      | PASS |
+------------------------------------------------------------------------------
+Special Characters                                                    | PASS |
+------------------------------------------------------------------------------
+Tests.TestDemo4 :: To validate the login form                         | FAIL |
+3 tests, 2 passed, 1 failed
+==============================================================================
+Tests                                                                 | FAIL |
+3 tests, 2 passed, 1 failed
+==============================================================================
+Output:  C:\Users\916824\PycharmProjects\python-robot-framework\tests\pabot_results\4\output.xml
