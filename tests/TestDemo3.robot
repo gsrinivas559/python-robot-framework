@@ -9,6 +9,7 @@ Resource    ../pageObjects/CommonResource.robot
 
 *** Variables ***
 #${alert}    css:.alert-danger
+${emailID}
 
 *** Test Cases ***
 Validate child window functionality
